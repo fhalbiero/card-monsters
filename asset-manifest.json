@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-monsters/static/css/main.22fbc6b2.chunk.css",
+    "main.js": "/card-monsters/static/js/main.a9eecd3b.chunk.js",
+    "main.js.map": "/card-monsters/static/js/main.a9eecd3b.chunk.js.map",
+    "runtime~main.js": "/card-monsters/static/js/runtime~main.7ff7e13a.js",
+    "runtime~main.js.map": "/card-monsters/static/js/runtime~main.7ff7e13a.js.map",
+    "static/js/2.522b3b10.chunk.js": "/card-monsters/static/js/2.522b3b10.chunk.js",
+    "static/js/2.522b3b10.chunk.js.map": "/card-monsters/static/js/2.522b3b10.chunk.js.map",
+    "index.html": "/card-monsters/index.html",
+    "precache-manifest.8b9d2f9cd40b15bf97cebb520d9e875d.js": "/card-monsters/precache-manifest.8b9d2f9cd40b15bf97cebb520d9e875d.js",
+    "service-worker.js": "/card-monsters/service-worker.js",
+    "static/css/main.22fbc6b2.chunk.css.map": "/card-monsters/static/css/main.22fbc6b2.chunk.css.map"
+  }
+}
